@@ -1,7 +1,7 @@
 # 💫 About Me:
 🧠 Recent computer science student gradute  
 📖 Focused on finding smarter, more efficient ways to get things done  
-💻 Passionate about building practical and effective software/hardware solutions  
+💻 Passionate about building practical and effective softwaresolutions  
 🚀 Continously learning, building, and improving through hands-on projects  
 
 # 💻 Tech Stack:
